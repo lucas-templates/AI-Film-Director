@@ -44,7 +44,7 @@ AI Film Director is a demonstration landing page that presents an AI-powered fil
 ## 📁 Project Structure
 
 ```
-AI Film Director/
+AI-Film-Director/
 │
 ├── index.html          # Main HTML file with all page content
 ├── styles.css          # Custom CSS styles and animations
